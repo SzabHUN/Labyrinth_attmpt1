@@ -1,0 +1,7 @@
+C:\Users\SzabHUN\source\repos\Labyrinth_attmpt1\Labyrinth_attmpt1\bin\Debug\Labyrinth_attmpt1.exe.config
+C:\Users\SzabHUN\source\repos\Labyrinth_attmpt1\Labyrinth_attmpt1\bin\Debug\Labyrinth_attmpt1.exe
+C:\Users\SzabHUN\source\repos\Labyrinth_attmpt1\Labyrinth_attmpt1\bin\Debug\Labyrinth_attmpt1.pdb
+C:\Users\SzabHUN\source\repos\Labyrinth_attmpt1\Labyrinth_attmpt1\obj\Debug\Labyrinth_attmpt1.csprojAssemblyReference.cache
+C:\Users\SzabHUN\source\repos\Labyrinth_attmpt1\Labyrinth_attmpt1\obj\Debug\Labyrinth_attmpt1.csproj.CoreCompileInputs.cache
+C:\Users\SzabHUN\source\repos\Labyrinth_attmpt1\Labyrinth_attmpt1\obj\Debug\Labyrinth_attmpt1.exe
+C:\Users\SzabHUN\source\repos\Labyrinth_attmpt1\Labyrinth_attmpt1\obj\Debug\Labyrinth_attmpt1.pdb
