@@ -16,7 +16,6 @@ namespace Labyrinth_attmpt1
             String tmp = Console.ReadLine();
 
             int x = Convert.ToInt32(tmp.Split(' ')[0]), y = Convert.ToInt32(tmp.Split(' ')[1]);
-            int iy = 8;
 
             int[] facing =
             {
@@ -116,3 +115,4 @@ namespace Labyrinth_attmpt1
         }
     }
 }
+
