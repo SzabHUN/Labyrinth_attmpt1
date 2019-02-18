@@ -17,7 +17,7 @@ namespace Labyrinth_attmpt1
 
             int x = Convert.ToInt32(tmp.Split(' ')[0]), y = Convert.ToInt32(tmp.Split(' ')[1]);
 
-            int[] facing =
+            int[] facing =      //for chicking if it can be completed (not implemented yet)
             {
                 1,   //Vertical - Broken    
                 2,   //ALL    
